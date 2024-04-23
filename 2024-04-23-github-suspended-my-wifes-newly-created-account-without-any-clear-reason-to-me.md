@@ -2,7 +2,7 @@
 
 My wife recently joined a code camp and started learning programming.
 
-She also created two repositories in the same class: one empty, and the other stored some markdown files for practicing the markdown syntax. There were about 20 students in the classroom who likely followed the same process.
+She created her first GitHub account on 4/15. She also created two repositories in the same class: one empty, and the other stored some markdown files for practicing the markdown syntax. There were about 20 students in the classroom who likely followed the same process.
 
 The next day, I guided her to use GitBook at home. She registered a GitBook account through her GitHub account's SSO, and created another repository for storing the content from GitBook. On the same day, I also guided her to enable the Visual Studio Code's settings sync through her GitHub SSO.
 
