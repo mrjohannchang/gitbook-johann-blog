@@ -14,7 +14,5 @@ I don't think using GitHub SSO on VS Code could be an issue. I am now publishing
 
 This is definitely a false positive decision. But I'm really surprised that she couldn't get back her account after issuing two tickets. They won’t even delete her account to allow her to reuse the username she is accustomed to.
 
-As an active GitHub user for more than a decade, I am really disappointed now but unsure what to do next.
-
 
 
