@@ -10,7 +10,7 @@ On 4/20, she discovered she could no longer log in to her GitBook account. We su
 
 She has issued two support tickets to explain the situation and try to get back her account. She and her classmates must have created their accounts under the same IP address as they were in the same classroom. However, the support service kept her account suspended without explaining which policy she had violated, providing only a general statement that the account was created in an account farming effort. Moreover, as she is just a beginner, she might not even know how to proceed without my help as a software engineer.
 
-It's strange that out of all her classmates, only her account was suspended. I don't think using GitHub SSO on VS Code could be an issue. I am now publishing this page through GitBook and linking to a repository on my GitHub account, which serves as proof that this use case is safe.
+I don't think using GitHub SSO on VS Code could be an issue. I am now publishing this page through GitBook and linking to a repository on my GitHub account, which serves as proof that this use case is safe. I believe the issue arose because many students created their accounts within a short period using the same IP address.
 
 This is definitely a false positive decision. But I'm really surprised that she couldn't get back her account after issuing two tickets. They won’t even delete her account to allow her to reuse the username she is accustomed to.
 
