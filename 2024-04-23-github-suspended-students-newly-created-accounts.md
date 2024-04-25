@@ -1,4 +1,4 @@
-# 2024-04-23 GitHub Suspended My Wife's Newly Created Account Without Any Clear Reason to Me
+# 2024-04-23 GitHub Suspended Students' Newly Created Accounts
 
 My wife recently joined a code camp and started learning programming.
 
